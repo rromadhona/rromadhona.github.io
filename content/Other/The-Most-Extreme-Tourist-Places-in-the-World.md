@@ -1,6 +1,6 @@
 ---
 title: "The Most Extreme Tourist Places in the World, Intention to Visit"
-date: 2022-10-23T08:19:28Z
+date: 2023-08-21T08:19:28Z
 draft: false
 image: 'https://telegra.ph/file/fda533edff6511747c0e8.png'
 description: "Extreme tourism places, Most dangerous tourist destinations, The most extreme places on earth, Top 7 extreme places, Extreme tourism destinations"

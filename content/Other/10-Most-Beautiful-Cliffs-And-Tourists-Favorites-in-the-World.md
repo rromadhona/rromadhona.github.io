@@ -1,6 +1,6 @@
 ---
 title: "10 Most Beautiful Cliffs and Tourists Favorites in the World"
-date: 2022-10-24T08:04:24Z
+date: 2023-08-21T08:04:24Z
 draft: false
 image: 'https://telegra.ph/file/fe893679bca5371645301.jpg'
 description: "Most beautiful cliffs in the world, Most beautiful cliffs, Beautiful cliffs in the world, Beautiful cliffs"

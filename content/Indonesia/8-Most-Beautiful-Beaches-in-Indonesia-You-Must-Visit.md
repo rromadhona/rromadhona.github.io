@@ -1,6 +1,6 @@
 ---
 title: "8 Most Beautiful Beaches in Indonesia You Must Visit!"
-date: 2023-08-21T02:22:46Z
+date: 2023-08-22T02:22:46Z
 draft: false
 image: 'https://telegra.ph/file/99149a0c7e50aac293b4c.png'
 description: "Most Beautiful Beaches in Indonesia, Best beach get away, Indonesia beach vacation, Great beach resorts, Top rated beach resorts, Places to visit with beautiful beaches"

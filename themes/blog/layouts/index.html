@@ -1,7 +1,5 @@
 {{ define "main" }}
 <div class="d-g gg-10">
-  <script src="/js/script.js"></script>
-  <script>if(met != null){document.write(metadir);}else{null};</script>
   <div class="d-g gg-15 gtc-r">
     {{ $pages := site.RegularPages }}
     {{ range ( .Paginate $pages ).Pages }}

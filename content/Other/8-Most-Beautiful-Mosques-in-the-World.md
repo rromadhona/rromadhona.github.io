@@ -1,6 +1,6 @@
 ---
 title: "8 Most Beautiful Mosques in the World, Indonesia Included in it..?"
-date: 2022-10-23T10:12:49Z
+date: 2023-08-21T10:12:49Z
 draft: false
 image: 'https://telegra.ph/file/d9a32926fbf624d380064.png'
 description: "The most beautiful, World beautiful places, Beautiful mosque, Bosque meaning, Beautiful mosque in the world, Most beautiful mosque in the world"
