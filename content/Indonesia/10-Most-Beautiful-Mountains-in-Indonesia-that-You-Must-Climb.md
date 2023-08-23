@@ -1,6 +1,6 @@
 ---
 title: "10 Most Beautiful Mountains in Indonesia That You Must Climb!"
-date: 2022-10-25T01:21:50Z
+date: 2023-08-21T01:21:50Z
 draft: false
 image: 'https://telegra.ph/file/62c5a72c6528bda79ccc1.png'
 description: "Most Beautiful Mountains in Indonesia, Best mountains to climb, Hiking indonesia, Best mountain for hiking, Best hikes in indonesia, The best mountains to climb"
