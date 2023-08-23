@@ -10,12 +10,12 @@
   {{ end }}
   
   {{ if .IsHome }}
-  <h1 class="fs-20 ws-n to-e o-h">{{ .Title }}</h1>
-  {{ else }}
   <div class="d-f gg-10 ai-c">
     <b><a href="/about/rromadhona/">About</a></b>
     <b><a href="/about/contact/">Contact</a></b>
     | <b><a href="/tags">Tags</a></b>
   </div>
+  {{ else }}
+  <h1 class="fs-20">{{ .Page.Title }}</h1>
   {{ end }}
 </div>
