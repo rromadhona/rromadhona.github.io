@@ -1,13 +1,13 @@
-baseURL = 'https://4vacation.pages.dev'
+baseURL = 'https://rromadhona.github.io'
 languageCode = 'en-us'
-title = '4vacation'
+title = 'Rromadhona'
 theme = 'blog'
 enableRobotsTXT = 'true'
 paginate = 10
 summaryLength = 40
 
 [params]
-  Description = 'The most beautiful, best tourist attractions. 4vacation itself is a blog that provides reading references about all things related to the world of holidays in Indonesia and in the world.'
+  Description = 'Personal Blog untuk belajar Seo, belajar backlink, belajar PBN, belajar Framework Hugo, belajar Digital marketing.'
   favicon = 'https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/512/202124/external-health-sport-tanah-basah-basic-outline-tanah-basah.png'
   twitter = 'Rizqy'
 [markup]
