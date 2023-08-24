@@ -18,7 +18,7 @@
   {{ if .Params.image }}<meta name="twitter:image" content="{{ .Params.image }}">{{ end }}
   {{ end }}
   <meta property="og:locale" content="en_GB">
-  <meta property="og:type" content="{{ if .IsPage }}{{ else }}Rromadhona DEV{{ end }}">
+  <meta property="og:type" content="{{ if .IsPage }}{{ else }}HUGO Indonesia Developer{{ end }}">
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
   <meta property="og:description" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords " , "}}{{ else }}{{ .Site.Params.Description }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
