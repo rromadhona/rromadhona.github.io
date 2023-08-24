@@ -2,11 +2,7 @@
   {{ if .IsHome }}
   <h1 class="fs-20">{{ .Title }}</h1>
   {{ else }}
-  <h2>
-    <a class="c-3 d-f ai-c" href="/">
-      <img loading="lazy" class="of-c d-b" src="{{ .Site.Params.favicon }}" alt="{{ .Site.Title }}" width="21" height="24">
-    </a>
-  </h2>
+  <h1 class="fs-20">{{ .Page.Title }}</h1>
   {{ end }}
   
   {{ if .IsHome }}
@@ -16,6 +12,10 @@
     | <b><a href="/tags">Tags</a></b>
   </div>
   {{ else }}
-  <h1 class="fs-20">{{ .Page.Title }}</h1>
+  <h2>
+    <a class="c-3 d-f ai-c" href="/">
+      <img loading="lazy" class="of-c d-b" src="{{ .Site.Params.favicon }}" alt="{{ .Site.Title }}" width="21" height="24">
+    </a>
+  </h2>
   {{ end }}
 </div>
