@@ -10,6 +10,7 @@ summaryLength = 40
   Description = 'Personal Blog untuk belajar Seo, belajar backlink, belajar PBN, belajar Framework Hugo, belajar Digital marketing.'
   favicon = 'https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/512/202124/external-health-sport-tanah-basah-basic-outline-tanah-basah.png'
   twitter = 'Rizqy'
+
 [markup]
   [markup.tableOfContents]
     startLevel = 2
