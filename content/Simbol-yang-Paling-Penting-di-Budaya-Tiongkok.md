@@ -2,7 +2,7 @@
 title: "Apa Simbol Yang Paling Penting Di Budaya Tiongkok"
 date: 2023-08-28T13:37:36+07:00
 draft: false
-image: ''
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFfmTzE_Wa8RBsDRAxmkTE-H6c0VYDAMPNkkR9cX749LJ9VZqN3RoLwMTKMrwBPomjjZA9T1_9m5IL3wJJcEUBoOMfhSaV0mElmwjgYxnuarHpYPsvIYEVvss9WNnCQjedxdaFU-Z4Zn8dfq9DEuldL92RXhJAXokvQgB65M7Nlb8uPS98OTBSjztjcSs/s480/yin-yang.png'
 description: "Apa simbol yang paling penting di budaya tiongkok, Simbol yang paling penting di budaya tiongkok"
 keywords:
 - Apa simbol yang paling penting di budaya tiongkok
