@@ -18,8 +18,6 @@ summaryLength = 40
     ordered = false
 [markup.goldmark.renderer]
   unsafe = true
-[taxonomies]
-  tags = 'tags'
 [related]
   includeNewer = true
   threshold = 80
