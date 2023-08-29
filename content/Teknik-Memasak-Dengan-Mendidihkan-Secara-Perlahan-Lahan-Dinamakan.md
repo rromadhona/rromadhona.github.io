@@ -9,7 +9,8 @@ keywords:
 - Memasak dengan mendidihkan secara perlahan-lahan disebut
 - Pengertian simmering
 tags:
-- 
+- Tutorial
+- Pengertian
 ---
 
 ## Teknik Memasak Simmering: Rahasia Memasak dengan Mendidih Perlahan
