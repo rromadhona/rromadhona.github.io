@@ -8,7 +8,7 @@
   {{ if .IsPage }}<meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ else }}{{ end }}">{{ else }}{{ end }}
   <meta name="description" content="{{ if .Params.Description }}{{ .Params.Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
-  <link rel="stylesheet" href="{{ "css/style.css" | relURL}}">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL}}">
   {{ if isset .Site.Params "twitter" }}
   <meta name="twitter:card" content="{{ if .Params.image }}summary_large_image{{else}}summary{{end}}">
   <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
