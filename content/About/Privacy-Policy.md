@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 date: 2023-08-05T14:35:49Z
 draft: false
+sitemap_exclude: true
 ---
 
 At Rromadhona, accessible from https://rromadhona.github.io/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Rromadhona and how we use it.

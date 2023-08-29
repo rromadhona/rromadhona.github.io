@@ -2,6 +2,7 @@
 title: "Contact"
 date: 2023-08-05T14:36:18Z
 draft: false
+sitemap_exclude: true
 ---
 
 ## Contact us
