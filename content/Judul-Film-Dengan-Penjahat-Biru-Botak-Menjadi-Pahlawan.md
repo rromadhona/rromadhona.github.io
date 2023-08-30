@@ -2,7 +2,7 @@
 title: "Judul Film Dengan Penjahat Biru Botak Menjadi Pahlawan"
 date: 2023-08-30T06:38:10Z
 draft: false
-image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJB_wM7iSeglHJaX4gMXMrAY6prkguYOTC_Uqrg-BN04u5ZdNpxQxA3l8L0cTQz38pqofsK3-Mo6L_itJxhHLOgiGGq_Sv8on1N3o1-jXt7ojbEZnPaumE3EScT5tahOWo4Vma8Ygs_REC3blTwizNr24pKTS-FpSUf_aaOoNiDHHDWM7np093nS-piTk/s360/film-megamind.jpg'
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJB_wM7iSeglHJaX4gMXMrAY6prkguYOTC_Uqrg-BN04u5ZdNpxQxA3l8L0cTQz38pqofsK3-Mo6L_itJxhHLOgiGGq_Sv8on1N3o1-jXt7ojbEZnPaumE3EScT5tahOWo4Vma8Ygs_REC3blTwizNr24pKTS-FpSUf_aaOoNiDHHDWM7np093nS-piTk/s480/film-megamind.jpg'
 description: "Judul film dengan penjahat biru botak menjadi pahlawan, Film animasi kelas komedi superhero, Megamind, menceritakan perjalanan menarik seorang penjahat super cerdas yang akhirnya mengubah jalan hidupnya menjadi pahlawan yang tak terduga."
 keywords:
 - Judul film dengan penjahat biru botak menjadi pahlawan

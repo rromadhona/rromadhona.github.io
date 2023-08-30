@@ -2,7 +2,7 @@
 title: "HP Samsung Harga 2 Jutaan Ram 8 Terbaik"
 date: 2023-08-25T09:11:37+07:00
 draft: false
-image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQQnqV95MTQofIpH-MTcLe_ZQ47YZqi78qdiU2xVi77vOfAYK7wuHzaB3f2l53jb07ioU_GqSIKj1Zs327NqdNBVs4hFqfr2v9snqFcvWJ8kSt8omLExR_L4mx5U3vWrROSabeGDpRAEhjaKVAfZmNbgaq33Tq9vCppsCyBHLmpTxGavS0wkBDXdSfucg/s360/HP%20Samsung%20Harga%202%20Jutaan%20Ram%208.jpg'
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQQnqV95MTQofIpH-MTcLe_ZQ47YZqi78qdiU2xVi77vOfAYK7wuHzaB3f2l53jb07ioU_GqSIKj1Zs327NqdNBVs4hFqfr2v9snqFcvWJ8kSt8omLExR_L4mx5U3vWrROSabeGDpRAEhjaKVAfZmNbgaq33Tq9vCppsCyBHLmpTxGavS0wkBDXdSfucg/s480/HP%20Samsung%20Harga%202%20Jutaan%20Ram%208.jpg'
 description: "Rekomendasi HP Samsung Harga 2 Jutaan Ram 8 yaitu Samsung Galaxy A13: Kecepatan dan Performa dalam Genggaman, Samsung Galaxy A22 5G: Koneksi Cepat, Main Game Makin Seru!, Samsung Galaxy A23: Tampil Beda dengan Snapdragon 680!"
 keywords:
 - Samsung 2 jutaan

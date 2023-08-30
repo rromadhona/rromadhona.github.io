@@ -2,7 +2,7 @@
 title: "Jawaban See You, Arti dan Variasi Lainnya"
 date: 2023-08-27T07:00:18+07:00
 draft: false
-image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6RC08r6KZIgoR3mcOteDaa1IOJRSzcaabMl-wTgMDFYqJInYwPwAC2wBwTKbmJAxaVvpLqp6DMoZX02dgObF_bonfKpgf7kqlrQN8IZA0sJ7-FYVecbQbwHedm-47QnyDOk8LLDI-BBxroPj7_dtl7RbcJl_X-iUqSYAMxNQax4HIddJbEKfSpAySOKs/s360/jawaban-see-you.jpg'
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6RC08r6KZIgoR3mcOteDaa1IOJRSzcaabMl-wTgMDFYqJInYwPwAC2wBwTKbmJAxaVvpLqp6DMoZX02dgObF_bonfKpgf7kqlrQN8IZA0sJ7-FYVecbQbwHedm-47QnyDOk8LLDI-BBxroPj7_dtl7RbcJl_X-iUqSYAMxNQax4HIddJbEKfSpAySOKs/s480/jawaban-see-you.jpg'
 description: "Jawaban See You, 'See you' adalah frasa dalam bahasa Inggris yang kerap digunakan sebagai ungkapan perpisahan. Secara harfiah, arti dari 'see you' adalah 'melihatmu'. Namun, dalam konteks yang lebih luas, frasa ini sebenarnya mengandung makna 'sampai jumpa' atau 'hingga bertemu kembali'."
 keywords:
 - Jawaban see you
