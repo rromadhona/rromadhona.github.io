@@ -2,7 +2,7 @@
 title: "Ucapan Sama-Sama Dalam Bahasa Jepang"
 date: 2023-08-29T09:40:52Z
 draft: false
-image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbO5RmMm4I3eGgK6siEQEc3Je2qgdCjDtlXMTk7q5JNltJv0M93pxTP1IPqQZ8l6waDFqXWWByKesOXNJfLQsJOgnGxWrE8bAJxa7-co4XlZvC3GUPloIHerXQleUQDMlNyn9wU71HCi4YZPmLiAzxsQHewKm855jT4ihabbYnzjJ6I-3cDnEq6Q3QwTE/s480/sama-sama-dalam-bahasa-jepang.jpg'
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbO5RmMm4I3eGgK6siEQEc3Je2qgdCjDtlXMTk7q5JNltJv0M93pxTP1IPqQZ8l6waDFqXWWByKesOXNJfLQsJOgnGxWrE8bAJxa7-co4XlZvC3GUPloIHerXQleUQDMlNyn9wU71HCi4YZPmLiAzxsQHewKm855jT4ihabbYnzjJ6I-3cDnEq6Q3QwTE/s360/sama-sama-dalam-bahasa-jepang.jpg'
 description: "Sama-Sama Dalam Bahasa Jepang, Memahami Cara Menggunakan Ucapan 'Sama-sama' dalam Bahasa Jepang"
 keywords:
 - Arti sama sama dalam bahasa jepang
