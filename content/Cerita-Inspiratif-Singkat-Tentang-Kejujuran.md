@@ -1,9 +1,9 @@
 ---
 title: "Cerita Inspiratif Singkat Tentang Kejujuran"
-date: 2023-08-26T20:28:02+07:00
+date: 2023-08-29T20:28:02+07:00
 draft: false
 image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeogbqxHCe4B8-gvhD4aRYdfZLlJ1AOzRSIVBxlOnHBPZ9Cmk9HmAGtMNiH-nzmILVcIZSfykfJ10P-sWo1mp_IaQAjzeLF0cjb5ghboGXsF_NrAhXA3f-TJDkMM8E8wHTGE1Sixid2fYvIZTuCvC9EFNEPr5VCbgCMqxyahv62Ur-gJYe1lOAwfTASjs/s480/cerita-inspiratif-singkat-tentang-kejujuran.jpg'
-description: "Kisah Inspiratif Umar bin Khattab dan Gadis Penjual Susu: Kejujuran dalam Kegelapan, Dalam percakapan itu, sang ibu berbicara tentang mencampur air ke dalam susu yang akan mereka jual agar bisa mendapatkan lebih banyak keuntungan. Namun, sang putri menolak dengan tegas."
+description: "Cerita Inspiratif Singkat Tentang Kejujuran, Kisah Inspiratif Umar bin Khattab dan Gadis Penjual Susu: Kejujuran dalam Kegelapan."
 keywords:
 - Cerita Inspiratif Singkat Tentang Kejujuran
 - Kisah inspiratif tentang kejujuran singkat
