@@ -14,7 +14,7 @@ tags:
 - Dongeng Romantis
 ---
 
-## 5 Dongeng Romantis Sebelum Tidur untuk Mempererat Hubungan dengan Pacar Anda**
+## 5 Dongeng Romantis Sebelum Tidur untuk Mempererat Hubungan dengan Pacar Anda
 
 Dongeng merupakan cerita fiktif yang selalu memiliki daya tarik tersendiri. Biasanya, dalam dongeng, kita akan menemui karakter manusia dan binatang yang hidup di masa lalu. Tak jarang, cerita-cerita ini penuh dengan unsur magis dan keajaiban, membuatnya begitu menawan.
 
