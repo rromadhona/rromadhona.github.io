@@ -11,6 +11,7 @@ keywords:
 tags:
 - Seni
 - Ukiran
+- Pendidikan
 ---
 
 ## Seni Relief: Keindahan dalam Ukiran
