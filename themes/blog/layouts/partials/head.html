@@ -28,16 +28,34 @@
   <meta property="og:image:secure_url" content="{{ .Params.image }}">
   {{- end }}
   {{ if isset .Params "date" }}<meta property="article:published_time" content="{{ (time .Date).Format "2006-01-02T15:04:05Z" }}">{{ end }}
+    {{ with .OutputFormats.Get "rss" -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
   
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D18EYWY0VM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-D18EYWY0VM');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6640608233758021" crossorigin="anonymous"></script>
+  <script>
+  /* Lazy Load Ads on Scroll by igniel.com */
+  let lzAd = false;
+  window.addEventListener('scroll', () => {
+    (0 != document.documentElement.scrollTop && false === lzAd || 0 != document.body.scrollTop && !1 === lzAd) && (!function(){
+      /* Lazy Load Ads By igniel.com */
+      let ignLzPub = '6640608233758021',
+      ignLzAd = document.createElement('script');
+      ignLzAd.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-' + ignLzPub;
+      ignLzAd.async = true;
+      ignLzAd.setAttribute('crossorigin', 'anonymous');
+      document.head.appendChild(ignLzAd);
+    }(), lzAd = true);
+  }, true);
+  </script>
+  <script type="text/javascript">
+  var LazyAnalytics=false;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&false===LazyAnalytics||0!=document.body.scrollTop&&false===LazyAnalytics)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="https://www.googletagmanager.com/gtag/js?id=G-D18EYWY0VM";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}(),LazyAnalytics=true)},true);
+  </script>
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-D18EYWY0VM');
+  </script>
 
 </head>

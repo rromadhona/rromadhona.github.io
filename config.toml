@@ -5,7 +5,10 @@ theme = 'blog'
 enableRobotsTXT = 'true'
 paginate = 10
 summaryLength = 40
+copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
 
+[author]
+  name = 'Rizqy'
 [params]
   Description = 'Personal Blog untuk share artikel-artikel bermanfaat dan belajar Seo, belajar backlink, belajar PBN, belajar Framework Hugo, belajar Digital marketing.'
   favicon = 'https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/512/202124/external-health-sport-tanah-basah-basic-outline-tanah-basah.png'
