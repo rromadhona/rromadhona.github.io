@@ -31,14 +31,13 @@
     {{ with .OutputFormats.Get "rss" -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
-  
   <script>
   /* Lazy Load Ads on Scroll by igniel.com */
   let lzAd = false;
   window.addEventListener('scroll', () => {
     (0 != document.documentElement.scrollTop && false === lzAd || 0 != document.body.scrollTop && !1 === lzAd) && (!function(){
       /* Lazy Load Ads By igniel.com */
-      let ignLzPub = '6640608233758021',
+      let ignLzPub = '4019877606692451',
       ignLzAd = document.createElement('script');
       ignLzAd.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-' + ignLzPub;
       ignLzAd.async = true;
@@ -49,13 +48,6 @@
   </script>
   <script type="text/javascript">
   var LazyAnalytics=false;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&false===LazyAnalytics||0!=document.body.scrollTop&&false===LazyAnalytics)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="https://www.googletagmanager.com/gtag/js?id=G-D18EYWY0VM";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}(),LazyAnalytics=true)},true);
-  </script>
-  <script type="text/javascript">
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'G-D18EYWY0VM');
   </script>
 
 </head>
